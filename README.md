@@ -3,8 +3,6 @@
 # 🏮 Welcome to my page 🏮  
 #### Business Card  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark)](https://github.com/OstrovskyIv)
-
 </div>
 
 ## Tech Stack 🛠️
@@ -31,7 +29,6 @@
   <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js
 </p>
 
----
 
 ## Top Projects 🚀
 
@@ -77,12 +74,12 @@
 
 ---
 
+### ❸ There's nothing yet
+
 <div align="center">
   <h3>📊 Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
 </div>
-
----
 
 ## GitHub Stats 📈
 <div align="center">
