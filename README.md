@@ -76,14 +76,9 @@
 
 ### ❸ There's nothing yet
 
+---
+
 <div align="center">
   <h3>📊 Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
-</div>
-
-## GitHub Stats 📈
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OstrovskyIv&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OstrovskyIv&theme=dark&hide_border=true" alt="Streak">
 </div>
