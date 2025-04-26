@@ -29,7 +29,7 @@
   <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js
 </p>
 
-
+---
 ## Top Projects 🚀
 
 ### Web Shopping Store
@@ -51,6 +51,7 @@
 - Shopping cart 
 - Order management 
 
+---
 
 <div align="center">
   <h3>📊 Most Used Languages</h3>
