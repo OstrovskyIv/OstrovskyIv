@@ -4,7 +4,7 @@
   border: 2px solid #ccc;
   border-radius: 20px;
   padding: 15px;
-  width: 90%;
+  width: 10%;
   margin: 10px auto;
 ">
 
