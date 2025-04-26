@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- Анимированный заголовок с 3D эффектом -->
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #9c4dff; text-shadow: 0 4px 8px rgba(156, 77, 255, 0.5), 0 0 20px rgba(156, 77, 255, 0.3);">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=9C4DFF&center=true&vCenter=true&width=550&lines=Привет,+я+Иван+Островский!;Full+Stack+Developer;Java%2FSpring+Engineer;TypeScript%2FReact+Enthusiast" alt="Анимированный текст" />
@@ -52,12 +50,6 @@
     <p style="color: #bf94ff; margin: 10px 0 0; font-weight: bold;">TypeScript</p>
   </div>
   
-  <!-- React с 3D эффектом -->
-  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 12px; padding: 15px; box-shadow: 0 8px 25px rgba(156, 77, 255, 0.3); transition: all 0.4s ease; transform-style: preserve-3d;" onmouseover="this.style.transform='perspective(1000px) rotateX(15deg) translateY(-10px)'" onmouseout="this.style.transform='perspective(1000px) rotateX(0deg) translateY(0)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #9c4dff);" />
-    <p style="color: #bf94ff; margin: 10px 0 0; font-weight: bold;">React</p>
-  </div>
-  
   <!-- Docker с 3D эффектом -->
   <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 12px; padding: 15px; box-shadow: 0 8px 25px rgba(156, 77, 255, 0.3); transition: all 0.4s ease; transform-style: preserve-3d;" onmouseover="this.style.transform='perspective(1000px) rotateX(15deg) translateY(-10px)'" onmouseout="this.style.transform='perspective(1000px) rotateX(0deg) translateY(0)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 5px #9c4dff);" />
@@ -104,38 +96,4 @@
       <span style="color: #bf94ff; font-weight: bold;">Email</span>
     </div>
   </a>
-</div>
-
-<!-- Анимации -->
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  /* Анимация для подсветки текущего стрика */
-  #streak-days {
-    position: relative;
-    display: inline-block;
-  }
-  
-  #streak-days::after {
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 100%;
-    height: 3px;
-    background: linear-gradient(90deg, #9c4dff, #bf94ff);
-    border-radius: 2px;
-    animation: pulseUnderline 2s infinite;
-  }
-  
-  @keyframes pulseUnderline {
-    0% { opacity: 0.7; width: 100%; }
-    50% { opacity: 1; width: 110%; }
-    100% { opacity: 0.7; width: 100%; }
-  }
-</style>
 </div>
