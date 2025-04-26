@@ -28,3 +28,40 @@
   <img src="https://icongr.am/simple/typescript.svg?size=20&color=3178C6" alt="TypeScript"> TypeScript &nbsp;&nbsp;
   <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js
 </p>
+
+---
+
+## Top Projects 🚀
+
+### Web Shopping Store
+<p align="left">
+  <a href="https://github.com/OstrovskyIv/web_shopping_store.git">
+    <img src="https://icongr.am/simple/github.svg?size=20&color=181717" alt="GitHub"> 
+    <strong>Repository</strong>
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://icongr.am/simple/java.svg?size=20&color=007396" alt="Java"> 
+  <img src="https://icongr.am/simple/spring.svg?size=20&color=6DB33F" alt="Spring"> 
+  <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue.js">
+</p>
+
+📝 **Description**: Full-stack e-commerce platform with Spring Boot backend and Vue.js frontend  
+✅ **Features**: 
+- User authentication 
+- Product catalog 
+- Shopping cart 
+- Order management 
+
+---
+
+<div align="center">
+  <h3>📊 Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
+</div>
+
+---
+
+## GitHub Stats 📈
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OstrovskyIv&show_icons=true&theme=dark&hide_border=true" alt="Stats">
+</div>
