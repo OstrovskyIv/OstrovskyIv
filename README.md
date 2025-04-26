@@ -80,19 +80,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
 </div>
 
-***
+---
 
 ## 📬 Let's Connect!
 <p align="center">
   <a href="https://t.me/Bambuk_lov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="45" alt="Telegram">
+  </a> &nbsp;
   <a href="mailto:ostrovskyiml@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail">
+  </a> &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"> 
   </a>
 </p>
