@@ -5,7 +5,7 @@
 
 </div>
 
-## Tech Stack 🛠️
+## Tech Stack 🗂️
 
 ### Tools ⚒️
 <p align="left">
@@ -76,8 +76,6 @@
 
 ### ❸ There's nothing yet
   <em>🚧 Space for future projects 🚧</em>
-
-
 
 <div align="center">
   <h3>📊 Most Used Languages</h3>
