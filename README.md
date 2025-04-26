@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
 </div>
 
----
+***
 
 ## 📬 Let's Connect!
 <p align="center">
