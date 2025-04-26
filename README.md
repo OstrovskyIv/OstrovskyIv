@@ -1,15 +1,9 @@
-<div align="center" style="border:2px solid #ccc; padding: 15px; border-radius: 20px; width: 90%; margin: 10px auto;">
-
-# 🏮 Welcome to my page 🏮
-<!-- эмодзи брались на данном сайте - "https://emojipedia.org/most-popular" 🖖🏻🏮🌐--> 
-<hr style="height:1px; border:none; background-color:#ccc; margin: 10px 0;" />  
-
-#### business card  
-
-</div>
+# 🏮 Welcome to my page 🏮  
+#### Business Card  
+---
 
 ## Tech Stack 🛠️
-<hr style="height:1px; border:none; background-color:#ccc; margin: 10px 0;" />  
+--- 
 
 > ### Tools ⚒️
 > - <img src="https://icongr.am/simple/visualstudiocode.svg?size=20&color=007ACC" alt="VS Code"> VS Code
