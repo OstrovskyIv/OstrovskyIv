@@ -1,13 +1,5 @@
 <div align="center">
 
-<div style="
-  border: 2px solid #ccc;
-  border-radius: 20px;
-  padding: 15px;
-  width: 10%;
-  margin: 10px auto;
-">
-
 # 🏮 Welcome to my page 🏮  
 #### Business Card  
 
