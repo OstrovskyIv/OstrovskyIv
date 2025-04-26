@@ -5,7 +5,7 @@
 
 </div>
 
-## Tech Stack 🗂️
+## Tech Stack 🛠️
 
 ### Tools ⚒️
 <p align="left">
@@ -26,7 +26,8 @@
 ### Frontend 🎨
 <p align="left">
   <img src="https://icongr.am/simple/typescript.svg?size=20&color=3178C6" alt="TypeScript"> TypeScript &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js
+  <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/react.svg?size=20&color=61DAFB" alt="React"> React
 </p>
 
 
@@ -74,8 +75,8 @@
 
 ---
 
-### ❸ There's nothing yet
-  <em>🚧 Space for future projects 🚧</em>
+### ❸ Coming Soon!
+<em>🚧 Space for future projects 🚧</em>
 
 <div align="center">
   <h3>📊 Most Used Languages</h3>
@@ -92,8 +93,7 @@
   <a href="mailto:ostrovskyiml@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail">
   </a> &nbsp;
-  <!-- Добавить позже ссылку на аккаунт LinkedIn -->
-  <a href="#">
+  <a href="[ВАША_ССЫЛКА_LinkedIn]">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"> 
   </a>
 </p>
