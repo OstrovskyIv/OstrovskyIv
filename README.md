@@ -5,44 +5,42 @@
 
 </div>
 
-## Tech Stack 🛠️
+## 🔧 Tech Stack 🛠️
 
-### Tools ⚒️
+### ⚒️ Tools
 <p align="left">
-  <img src="https://icongr.am/simple/visualstudiocode.svg?size=20&color=007ACC" alt="VS Code"> VS Code &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/intellijidea.svg?size=20&color=000000" alt="IntelliJ"> IntelliJ IDEA &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/docker.svg?size=20&color=2496ED" alt="Docker"> Docker &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/git.svg?size=20&color=F05032" alt="Git"> Git &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/github.svg?size=20&color=181717" alt="GitHub"> GitHub
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-### Backend ⚙️
+### ⚙️ Backend
 <p align="left">
-  <img src="https://icongr.am/simple/java.svg?size=20&color=007396" alt="Java"> Java &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/spring.svg?size=20&color=6DB33F" alt="Spring"> Spring &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/postgresql.svg?size=20&color=4169E1" alt="PostgreSQL"> PostgreSQL
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-### Frontend 🎨
+### 🎨 Frontend
 <p align="left">
-  <img src="https://icongr.am/simple/typescript.svg?size=20&color=3178C6" alt="TypeScript"> TypeScript &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js &nbsp;&nbsp;
-  <img src="https://icongr.am/simple/react.svg?size=20&color=61DAFB" alt="React"> React
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
 </p>
 
-
-## Top Projects 🚀
+## 🚀 Top Projects
 
 ### ❶ Traveler's Card 
 <p align="left">
   <a href="https://github.com/OstrovskyIv/Traveler-s-card">
-    <img src="https://icongr.am/simple/github.svg?size=20&color=181717" alt="GitHub"> 
-    <strong>Repository</strong>
+    <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://icongr.am/simple/java.svg?size=20&color=007396" alt="Java"> 
-  <img src="https://icongr.am/simple/spring.svg?size=20&color=6DB33F" alt="Spring"> 
-  <img src="https://icongr.am/simple/react.svg?size=20&color=61DAFB" alt="React">
+  
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
 </p>
 
 📝 **Description**: Travel management system with itinerary planning  
@@ -57,13 +55,12 @@
 ### ❷ Web Shopping Store
 <p align="left">
   <a href="https://github.com/OstrovskyIv/web_shopping_store.git">
-    <img src="https://icongr.am/simple/github.svg?size=20&color=181717" alt="GitHub"> 
-    <strong>Repository</strong>
+    <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://icongr.am/simple/java.svg?size=20&color=007396" alt="Java"> 
-  <img src="https://icongr.am/simple/spring.svg?size=20&color=6DB33F" alt="Spring"> 
-  <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue.js">
+  
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
 </p>
 
 📝 **Description**: Full-stack e-commerce platform  
@@ -88,12 +85,14 @@
 ## 📬 Let's Connect!
 <p align="center">
   <a href="https://t.me/Bambuk_lov">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="45" alt="Telegram">
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  
   <a href="mailto:ostrovskyiml@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail">
-  </a> &nbsp;
-  <a href="[ВАША_ССЫЛКА_LinkedIn]">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
