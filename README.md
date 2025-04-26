@@ -7,8 +7,6 @@
 
 ## Tech Stack 🛠️
 
----
-
 ### Tools ⚒️
 <p align="left">
   <img src="https://icongr.am/simple/visualstudiocode.svg?size=20&color=007ACC" alt="VS Code"> VS Code &nbsp;&nbsp;
