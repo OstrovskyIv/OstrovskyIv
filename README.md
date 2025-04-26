@@ -29,7 +29,6 @@
   <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js
 </p>
 
----
 
 ## Top Projects 🚀
 
@@ -52,14 +51,12 @@
 - Shopping cart 
 - Order management 
 
----
 
 <div align="center">
   <h3>📊 Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
 </div>
 
----
 
 ## GitHub Stats 📈
 <div align="center">
