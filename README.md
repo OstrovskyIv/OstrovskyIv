@@ -1,50 +1,42 @@
+<div align="center">
+
+<div style="
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  padding: 15px;
+  width: 90%;
+  margin: 10px auto;
+">
+
 # 🏮 Welcome to my page 🏮  
 #### Business Card  
----
+
+</div>
+
+</div>
 
 ## Tech Stack 🛠️
 
 ---
 
-### 🔧 Tools  
+### Tools ⚒️
 <p align="left">
-  <img src="https://icongr.am/simple/visualstudiocode.svg?size=28&color=007ACC" alt="VS Code" style="vertical-align: middle;"> 
-  <span style="font-size: 18px;">VS Code</span> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/simple/intellijidea.svg?size=28&color=000000" alt="IntelliJ" style="vertical-align: middle;">
-  <span style="font-size: 18px;">IntelliJ IDEA</span> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/simple/docker.svg?size=28&color=2496ED" alt="Docker" style="vertical-align: middle;">
-  <span style="font-size: 18px;">Docker</span> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/simple/git.svg?size=28&color=F05032" alt="Git" style="vertical-align: middle;">
-  <span style="font-size: 18px;">Git</span> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/simple/github.svg?size=28&color=181717" alt="GitHub" style="vertical-align: middle;">
-  <span style="font-size: 18px;">GitHub</span>
+  <img src="https://icongr.am/simple/visualstudiocode.svg?size=20&color=007ACC" alt="VS Code"> VS Code &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/intellijidea.svg?size=20&color=000000" alt="IntelliJ"> IntelliJ IDEA &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/docker.svg?size=20&color=2496ED" alt="Docker"> Docker &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/git.svg?size=20&color=F05032" alt="Git"> Git &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/github.svg?size=20&color=181717" alt="GitHub"> GitHub
 </p>
 
----
-
-### ⚙️ Backend  
+### Backend ⚙️
 <p align="left">
-  <img src="https://icongr.am/simple/java.svg?size=28&color=007396" alt="Java" style="vertical-align: middle;">
-  <span style="font-size: 18px;">Java</span> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/simple/spring.svg?size=28&color=6DB33F" alt="Spring" style="vertical-align: middle;">
-  <span style="font-size: 18px;">Spring</span> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/simple/postgresql.svg?size=28&color=4169E1" alt="PostgreSQL" style="vertical-align: middle;">
-  <span style="font-size: 18px;">PostgreSQL</span>
+  <img src="https://icongr.am/simple/java.svg?size=20&color=007396" alt="Java"> Java &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/spring.svg?size=20&color=6DB33F" alt="Spring"> Spring &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/postgresql.svg?size=20&color=4169E1" alt="PostgreSQL"> PostgreSQL
 </p>
 
----
-
-### 🎨 Frontend  
+### Frontend 🎨
 <p align="left">
-  <img src="https://icongr.am/simple/typescript.svg?size=28&color=3178C6" alt="TypeScript" style="vertical-align: middle;">
-  <span style="font-size: 18px;">TypeScript</span> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/simple/vuedotjs.svg?size=28&color=4FC08D" alt="Vue" style="vertical-align: middle;">
-  <span style="font-size: 18px;">Vue.js</span>
+  <img src="https://icongr.am/simple/typescript.svg?size=20&color=3178C6" alt="TypeScript"> TypeScript &nbsp;&nbsp;
+  <img src="https://icongr.am/simple/vuedotjs.svg?size=20&color=4FC08D" alt="Vue"> Vue.js
 </p>
