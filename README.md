@@ -75,10 +75,27 @@
 ---
 
 ### ❸ There's nothing yet
+  <em>🚧 Space for future projects 🚧</em>
 
----
+
 
 <div align="center">
   <h3>📊 Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
 </div>
+
+---
+
+## 📬 Let's Connect!
+<p align="center">
+  <a href="https://t.me/Bambuk_lov">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="45" alt="Telegram">
+  </a> &nbsp;
+  <a href="mailto:ostrovskyiml@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail">
+  </a> &nbsp;
+  <!-- Добавить позже ссылку на аккаунт LinkedIn -->
+  <a href="#">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"> 
+  </a>
+</p>
