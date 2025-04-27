@@ -36,48 +36,51 @@
 ## 🚀 Top Projects
 
 ### ❶ Traveler's Card 
-<div align="left">
+<div style="border-left: 4px solid #6DB33F; padding-left: 15px; margin-left: 10px;">
+<p align="left">
   <a href="https://github.com/OstrovskyIv/Traveler-s-card">
     <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
   
-  <div style="margin-left: 20px; margin-top: 10px;">
-    📝 <strong>Description</strong>: Travel management system with itinerary planning<br>
-    ✅ <strong>Features</strong>: 
-    <ul>
-      <li>Interactive map integration</li>
-      <li>Trip schedule builder</li>
-      <li>Collaborative editing</li>
-      <li>PDF export</li>
-    </ul>
-  </div>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+</p>
+
+📝 **Description**: Travel management system with itinerary planning  
+✅ **Features**: 
+- Interactive map integration
+- Trip schedule builder
+- Collaborative editing
+- PDF export
 </div>
 
 ---
 
 ### ❷ Web Shopping Store
-<div align="left">
+<div style="border-left: 4px solid #6DB33F; padding-left: 15px; margin-left: 10px;">
+<p align="left">
   <a href="https://github.com/OstrovskyIv/web_shopping_store.git">
     <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
   
-  <div style="margin-left: 20px; margin-top: 10px;">
-    📝 <strong>Description</strong>: Full-stack e-commerce platform<br>
-    ✅ <strong>Features</strong>: 
-    <ul>
-      <li>User authentication</li>
-      <li>Product catalog</li>
-      <li>Shopping cart</li>
-      <li>Order management</li>
-    </ul>
-  </div>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+</p>
+
+📝 **Description**: Full-stack e-commerce platform  
+✅ **Features**: 
+- User authentication 
+- Product catalog 
+- Shopping cart 
+- Order management 
 </div>
 
 ---
 
 ### ❸ Coming Soon!
-<div align="left" style="margin-left: 20px;">
-  <em>🚧 Space for future projects 🚧</em>
+<div style="border-left: 4px solid #6DB33F; padding-left: 15px; margin-left: 10px;">
+<em>🚧 Space for future projects 🚧</em>
 </div>
 
 <div align="center">
