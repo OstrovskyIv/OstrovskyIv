@@ -34,9 +34,11 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
 </p>
 
----
+─────────────────────
 
 ## 🚀 Top Projects
+
+─────────────────────
 
 ### ❶ Traveler's Card 
 <p align="left">
