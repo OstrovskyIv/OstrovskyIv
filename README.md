@@ -2,7 +2,8 @@
 
 <!-- эмодзи брались на данном сайте - "https://emojipedia.org/most-popular" 🖖🏻🏮🌐-->
 
-# 🏮 Welcome to my page 🏮  
+# 🏮 Welcome to my page 🏮 
+───────────────────── 
 #### Business Card  
 
 </div>
@@ -34,11 +35,9 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
 </p>
 
-─────────────────────
 
 ## 🚀 Top Projects
 
-─────────────────────
 
 ### ❶ Traveler's Card 
 <p align="left">
