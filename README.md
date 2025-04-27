@@ -71,12 +71,14 @@
 - Product catalog 
 - Shopping cart 
 - Order management 
+
 ─────────────────────
 
 ### ❸ Coming Soon!
 <p align="left">
   <em>🚧 Space for future projects 🚧</em>
 </p>
+
 ─────────────────────
 
 <div align="center">
