@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- эмодзи брались на данном сайте - "https://emojipedia.org/most-popular" 🖖🏻🏮🌐-->
+
 # 🏮 Welcome to my page 🏮  
 #### Business Card  
 
@@ -50,8 +52,6 @@
 - Collaborative editing
 - PDF export
 
----
-
 ### ❷ Web Shopping Store
 <p align="left">
   <a href="https://github.com/OstrovskyIv/web_shopping_store">
@@ -68,8 +68,6 @@
 - Product catalog 
 - Shopping cart 
 - Order management 
-
----
 
 ### ❸ Coming Soon!
 <p align="left">
