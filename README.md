@@ -2,8 +2,7 @@
 
 <!-- эмодзи брались на данном сайте - "https://emojipedia.org/most-popular" 🖖🏻🏮🌐-->
 
-# 🏮 Welcome to my page 🏮 
-───────────────────── 
+# 🏮 Welcome to my page 🏮  
 #### Business Card  
 
 </div>
@@ -54,6 +53,7 @@
 - Trip schedule builder
 - Collaborative editing
 - PDF export
+─────────────────────
 
 ### ❷ Web Shopping Store
 <p align="left">
@@ -71,11 +71,13 @@
 - Product catalog 
 - Shopping cart 
 - Order management 
+─────────────────────
 
 ### ❸ Coming Soon!
 <p align="left">
   <em>🚧 Space for future projects 🚧</em>
 </p>
+─────────────────────
 
 <div align="center">
   <h3>📊 Most Used Languages</h3>
