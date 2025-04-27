@@ -3,7 +3,7 @@
 <!-- эмодзи брались на данном сайте - "https://emojipedia.org/most-popular" 🖖🏻🏮🌐-->
 
 # 🏮 Welcome to my page 🏮  
-#### Business Card  
+#### Business card of Ivan Ostrovsky 
 
 </div>
 
@@ -34,9 +34,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
 </p>
 
-
 ## 🚀 Top Projects
-
 
 ### ❶ Traveler's Card 
 <p align="left">
@@ -53,7 +51,6 @@
 - Trip schedule builder
 - Collaborative editing
 - PDF export
-─────────────────────
 
 ### ❷ Web Shopping Store
 <p align="left">
@@ -65,28 +62,23 @@
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
 </p>
 
-📝 **Description**: Full-stack e-commerce platform  
+📝 **Description**: Full-featured electronic store platform (based on the cartoon) 
 ✅ **Features**: 
-- User authentication 
+- Telegram notification 
 - Product catalog 
-- Shopping cart 
-- Order management 
-
-─────────────────────
+- Full ordering functionality (adding and removing items from the cart and)
+- Additional animations for the site
+- Account registration 
 
 ### ❸ Coming Soon!
 <p align="left">
   <em>🚧 Space for future projects 🚧</em>
 </p>
 
-─────────────────────
-
 <div align="center">
   <h3>📊 Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
 </div>
-
----
 
 ## 📬 Let's Connect!
 <p align="center">
