@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- эмодзи брались на данном сайте - "https://emojipedia.org/most-popular" -->
+<!-- эмодзи брались на данном сайте - "https://emojipedia.org/most-popular" 🖖🏻🏮🌐🚀-->
 
 # 🏮 Welcome to my page 🏮  
 #### Business card of Ivan Ostrovsky 
