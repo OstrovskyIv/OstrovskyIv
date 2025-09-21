@@ -35,56 +35,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
-## 🚀 Top Projects
-
-### ❶ Traveler's Card 
-<p align="left">
-  <a href="https://github.com/OstrovskyIv/Traveler-s-card">
-    <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-</p>
-
-📝 **Description**: Travel management system with itinerary planning  
-✅ **Features**: 
-- Interactive map integration
-- Trip schedule builder
-- Collaborative editing
-- PDF export
-
-### ❷ Web Shopping Store
-<p align="left">
-  <a href="https://github.com/OstrovskyIv/web_shopping_store">
-    <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-</p>
-
-📝 **Description**: Full-featured electronic store platform (based on the cartoon) 
-✅ **Features**: 
-- Telegram notification 
-- Product catalog 
-- Full ordering functionality (adding and removing items from the cart and)
-- Additional animations for the site
-- Account registration 
-
-### ❸ Coming Soon!
-<p align="left">
-  <em>🚧 Space for future projects 🚧</em>
-</p>
-
-<div align="center">
-  <h3>📊 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstrovskyIv&layout=compact&theme=dark&hide_border=true">
-</div>
-
 ## 📬 Let's Connect!
 <p align="center">
   <a href="https://t.me/Bambuk_lov">
